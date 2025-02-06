@@ -1,0 +1,9 @@
+/public
+resources/
+node_modules/
+.hugo_build.lock
+**/.DS_Store
+**/.swp
+.vale/styles/Google
+.vale/styles/.vale-config
+commit-msg*

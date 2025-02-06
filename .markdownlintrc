@@ -1,0 +1,8 @@
+{
+
+  // Default state for all rules
+  "default": true,
+
+  "MD012": false,
+  "MD013": false,
+},
