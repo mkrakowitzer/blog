@@ -1,5 +1,0 @@
-baseURL = 'https://blog.krakowitzer.com/'
-languageCode = 'en-ie'
-title = 'Merritts Blog'
-
-theme = ["github.com/google/docsy" ]

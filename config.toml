@@ -1,0 +1,19 @@
+baseURL = 'https://blog.krakowitzer.com/'
+languageCode = 'en-ie'
+title = 'The Dad files'
+
+theme = ["github.com/google/docsy" ]
+
+[params]
+  subtitle = 'The Dad Files'
+  [params.contact]
+    email = 'merritt@krakowitzer.com'
+
+[markup]
+  defaultMarkdownHandler = "goldmark"
+
+[languages]
+  [languages.en]
+    contentDir = "content/en"
+    languageName = "English"
+    weight = 1
